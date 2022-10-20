@@ -4,7 +4,7 @@
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
-<h3>Acesse o site atrvés desse link: https://explore-lab-beige.vercel.app/</h3>
+<h3>Acesse o site através desse link: https://explore-lab-beige.vercel.app/</h3>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
